@@ -1,0 +1,70 @@
+{
+  "customers": [
+    {
+      "firstname": "naresh",
+      "lastname": "kumbhare",
+      "status": "",
+      "occupation": "",
+      "dob": "2021-06-25",
+      "position": "",
+      "bio": "ajsfsdg",
+      "file": "",
+      "id": 3
+    },
+    {
+      "firstname": "divya123",
+      "lastname": "hadke76",
+      "status": "",
+      "occupation": "",
+      "dob": "2021-06-23",
+      "position": "",
+      "bio": "sdf",
+      "file": "",
+      "id": 4
+    },
+    {
+      "firstname": "Hema ",
+      "lastname": "Kumbhare",
+      "status": "",
+      "occupation": "",
+      "dob": "2021-06-11",
+      "position": "",
+      "bio": "Hello",
+      "file": "C:\\fakepath\\AnyDesk.exe",
+      "id": 5
+    },
+    {
+      "firstname": "divya",
+      "lastname": "hadke",
+      "status": "",
+      "occupation": "",
+      "dob": "2021-06-17",
+      "position": "",
+      "bio": "hello",
+      "file": "",
+      "id": 6
+    },
+    {
+      "firstname": "duggi",
+      "lastname": "hadke",
+      "status": "",
+      "occupation": "",
+      "dob": "2021-06-22",
+      "position": "",
+      "bio": "hii",
+      "file": "",
+      "id": 7
+    },
+    {
+      "firstname": "vfd",
+      "lastname": "vbvfbf",
+      "status": "",
+      "occupation": "",
+      "dob": "2021-06-17",
+      "position": "",
+      "bio": "bffd",
+      "file": "",
+      "id": 8
+    }
+  ]
+}
